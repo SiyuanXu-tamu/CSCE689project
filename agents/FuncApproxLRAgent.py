@@ -26,8 +26,8 @@ class FuncApproxLRAgent(FlappyBirdAgent):
         This function is to initialize the function approximation agent.
         
         Args:
-            actions (list): Possible action values.
-            probFlap (float): The probability of flapping when choosing
+            actions: Possible action values.
+            probFlap: The probability of flapping when choosing
                               the next action randomly.
         Returns:
             None.
