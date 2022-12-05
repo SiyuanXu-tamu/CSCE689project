@@ -10,8 +10,14 @@ Then, 'plot.ipynb' is used to show the performance on tests.
 
 
 The project requires the following frameworks:
+
     Pygame: https://www.pygame.org
+    
     PyGame Learning Environment: https://github.com/ntasfi/PyGame-Learning-Environment
+    
     OpenAI Gym: https://gym.openai.com
+    
     gym-ple: https://github.com/lusob/gym-ple
+    
     PyTorch: https://pytorch.org
+    
