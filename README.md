@@ -6,7 +6,9 @@ In this project, we use three algorithms to implement the training which is SARS
 This Project is inspired by project website: https://github.com/taivu1998/FlapAI-Bird
 
 Use 'train_agent.ipynb' to train the agent, you can choose SARSA, Q-learning or backward Q-learning. This code will save the results in file 'scores'
-Then, 'plot.ipynb' is used to show the performance on tests.
+Then, 'plot.ipynb' is used to show the performance on tests. 
+
+The pretrained results is saved in the file 'SARSA_score', 'Q-learning_scores', and 'Back_Q-learning_scores'.
 
 
 The project requires the following frameworks:
