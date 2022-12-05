@@ -14,3 +14,4 @@ The project requires the following frameworks:
     PyGame Learning Environment: https://github.com/ntasfi/PyGame-Learning-Environment
     OpenAI Gym: https://gym.openai.com
     gym-ple: https://github.com/lusob/gym-ple
+    PyTorch: https://pytorch.org
